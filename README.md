@@ -8,8 +8,8 @@
   
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **ReactJS,** **ExpressJS,** **MongoDB.**
-- 📫 How to reach me: **yadavabhay966@gmail.com**
-- ⚡ Fun fact: **I curious to learn something new**
+- 📫 How to reach me **yadavabhay966@gmail.com**
+- ⚡ Fun fact **I curious to learn something new**
 ==============================================================
 
 ### Hi there 👋
