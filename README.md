@@ -19,5 +19,5 @@
   <a href="https://discord.com/abhayyadav_87008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/abhayyadav_87008" height="30" width="40" /></a>
 </p>
   
-
+<h3 align="left">Languages and Tools:</h3>
 <img width="240" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-yadav966&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
