@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a CS student at Sage Unversity.
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **ReactJS,** **ExpressJS,** **MongoDB.**
 - 📫 How to reach me **yadavabhay966@gmail.com**
 - ⚡ Fun fact **I curious to learn something new**
