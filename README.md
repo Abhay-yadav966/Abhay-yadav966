@@ -6,7 +6,7 @@
 
 - 🔭 I’m Software Engineer.
   
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **ReactJS, NextJS, TypeScript** **ExpressJS,** **MongoDB.**
 - 📫 How to reach me **yadavabhay966@gmail.com**
 - ⚡ Fun fact **I curious to learn something new**
